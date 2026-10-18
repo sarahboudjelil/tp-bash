@@ -1,1 +1,2 @@
-Bienvenue sur le site !
+print("Bienvenue, utilisateur connecté !")  
+ 
