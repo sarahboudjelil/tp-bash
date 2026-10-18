@@ -1,1 +1,1 @@
-print("Bonjour, Git !")
+Bienvenue, utilisateur connecté !
