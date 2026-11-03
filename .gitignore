@@ -1,10 +1,6 @@
- 
-# Fichiers temporaires
+ # Fichiers temporaires
 *.tmp
 *.swp
 
-# Archives de sauvegarde
+# Sauvegardes
 backups/
-
-# Logs
-*.log
