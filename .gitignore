@@ -1,3 +1,10 @@
-__pycache__/
-*.pyc
-.venv/
+ 
+# Fichiers temporaires
+*.tmp
+*.swp
+
+# Archives de sauvegarde
+backups/
+
+# Logs
+*.log
